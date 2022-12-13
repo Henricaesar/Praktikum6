@@ -111,7 +111,7 @@ def hapus(nama):
         print("Data tidak di temukan")
 # fungsi untuk mencari data
 
-# melakukan perulangan menggunakan while sampai user menekan huruf Q perulangan akan berhenti
+# melakukan perulangan menggunakan while sampai user menekan huruf K perulangan akan berhenti
 while True:
 # opsi input pilihan T,L,U,H,K
     tanya = input (
